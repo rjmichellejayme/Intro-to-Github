@@ -1,0 +1,7 @@
+# Title: "My First Markdown File"
+
+**Author:** *RJ Michelle Naffiza C. Jayme*
+
+**Date:** ***September 16, 2025***
+
+**Github Account:** **https://github.com/rjmichellejayme/Intro-to-Github.git**
